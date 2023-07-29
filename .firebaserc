@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pwapush-36d1e": {
+      "hosting": {
+        "app": [
+          "pwapush-36d1e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pwapush-36d1e"
+  }
+}
